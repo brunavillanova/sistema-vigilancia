@@ -59,6 +59,4 @@ Os frames processados são exibidos em uma janela até que a tecla "q" seja pres
 Contribuição
 
 Se você deseja contribuir para este projeto, fique à vontade para enviar um pull request ou relatar problemas.
-Licença
 
-Este projeto está sob a licença MIT.
