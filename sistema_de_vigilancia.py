@@ -4,7 +4,7 @@ import time
 
 # Importando o modelo yolov8n.pt (nano)
 modelo = YOLO('./classificadores/yolov8n.pt')
-video = cv.VideoCapture('./videos/aeroporto.mp4')
+video = cv.VideoCapture('./videos/aero.mp4')
 
 # Inicializar a contagem de FPS
 tempo_inicio = time.time()
